@@ -17,10 +17,15 @@ header {
     align-items: center;
     margin-left: 2em;
     margin-right: 2em;
-    border: lightseagreen 2px solid;
+    border: white 2px solid;
 }
 
 div.menu {
     width: fit-content;
     font-size: xx-large;
+    color: white;
+}
+
+a: link {
+    color: green;
 }
