@@ -1,0 +1,26 @@
+body {
+    color: black;
+    background-color:rgb(199, 226, 173);
+    font-family: fantasy;
+    font-size: 1.1em;
+    margin-top: 1em;
+    margin-left:5%;
+    margin-right: 5%;
+    border: 7px white dotted;
+    padding: 1em;
+}
+
+header {
+    display: flex;
+    height: 5em;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 2em;
+    margin-right: 2em;
+    border: lightseagreen 2px solid;
+}
+
+div.menu {
+    width: fit-content;
+    font-size: xx-large;
+}
