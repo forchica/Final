@@ -1,6 +1,6 @@
 body {
     color: black;
-    background-color:rgb(199, 226, 173);
+    background-color:rgba(101, 148, 58, 0.747);
     font-family: fantasy;
     font-size: 1.1em;
     margin-top: 1em;
@@ -26,45 +26,135 @@ div.menu {
     color: white;
 }
 
+p#titleofgallery {
+    font-size: 2.5em;
+    text-decoration: dotted underline;
+    color: whitesmoke;
+    text-align: center;
+}
 p#introtogallery {
     margin-top: 2em;
     text-align: center;
-    color: rgb(63, 99, 0);
+    color: whitesmoke;
     font-weight: 800;
 
 }
 
 img#may5lilies {
     width: 400px;
+    border: 3px white solid;
+    padding: .5em;
+    background-color: rgba(216, 81, 110, 0.815);
     
 }
 
 p#liliescap {
     margin-top: 1.5em;
     text-align: center;
-    color: rgb(63, 99, 0);
+    color: whitesmoke;
     font-weight: 800;
+    font-size: large;
 }
- p#lilies {
+p#lilies {
      text-align: center;
+     text-decoration: dotted underline darkolivegreen;
      font-size: xx-large;
-     color: rgb(63, 99, 0);
+     border-bottom: 2px whitesmoke;
+     color: whitesmoke;
      font-weight: 800;
  }
 
 img#may2cuc {
     width: 400px;
+    border: 2px solid whitesmoke;
+    padding: .5em;
+    background-color: green;
+
 }
 
 p#break {
     font-size: 3em;
     text-align: center;
-    color: white;
+    color: darkolivegreen;
 }
 p#cucumber {
     text-align: center;
     font-size: xx-large;
-    color: rgb(63, 99, 0);
+    color: whitesmoke;
+    font-weight: 800;
+    text-decoration: darkolivegreen dotted underline;
+}
+
+p#cuccap {
+    text-align: center;
+    font-size: large;
+    color: whitesmoke;
     font-weight: 800;
 }
 
+div.welcome {
+    color: whitesmoke;
+    text-align: center;
+}
+
+div.intro {
+    color: whitesmoke;
+    text-align: center;
+}
+
+div.p1 {
+    color: whitesmoke;
+    text-align: center;
+}
+
+p#yourgarden {
+    font-size: 2.5em;
+    text-decoration: dotted underline;
+    color: whitesmoke;
+    text-align: center;
+}
+p#yourgardenintro {
+    color: whitesmoke;
+    font-size: large;
+    text-indent: 30px;
+}
+
+p#consider {
+    color: whitesmoke;
+    font-size: large;
+}
+
+ul {
+    color: whitesmoke;
+    font-size: large;
+    
+}
+span.suppose {
+    text-indent: 30px;
+}
+
+p#planting {
+    color: whitesmoke;
+    font-size: 2em;
+    text-decoration: whitesmoke underline dotted;
+}
+
+p#listintro {
+    color: whitesmoke;
+}
+
+ol {
+    color: whitesmoke;
+    
+}
+
+p#seedpackettext {
+    color: whitesmoke;
+    text-align: center;
+}
+img#seedpacket {
+    width: 400px;
+    border: 2px solid whitesmoke;
+    padding: .5em;
+    
+}
