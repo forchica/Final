@@ -165,10 +165,10 @@ p {
 }
 
 div.ferts {
-    width: 250px;
+    width: 200px;
     border: 2px solid whitesmoke;
     padding: .5em;
     float: right;
+    align-content: center;
 }
 
-}
