@@ -155,6 +155,9 @@ p#seedpackettext {
 img#seedpacket {
     width: 400px;
     border: 2px solid whitesmoke;
-    padding: .5em;
-    
+    padding: .5em;   
+}
+p {
+    color: whitesmoke;
+    text-indent: 30px;
 }
