@@ -225,4 +225,17 @@ div.may1 {
     border: 2px solid whitesmoke;
     padding: .5em;
     align-content: center;
+    text-align: center;
+}
+
+img#may1lil {
+    width: 100%;
+}
+
+img#may1cuc {
+    width: 100%;
+}
+
+img#may1sun {
+    width: 100%;
 }
