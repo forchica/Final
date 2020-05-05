@@ -26,6 +26,13 @@ div.menu {
     color: white;
 }
 
-a: link {
-    color: green;
+p#introtogallery {
+    text-align: center;
+
+}
+
+img#may5lilies {
+    width: 400px;
+    
+    
 }
