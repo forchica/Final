@@ -172,3 +172,24 @@ div.ferts {
     align-content: center;
 }
 
+img#shake {
+    width: 100%;
+}
+
+img#stick {
+    width: 100%;
+}
+div.journalheadings {
+    color: whitesmoke;
+    font-size: large;
+    text-indent: 30px;
+}
+
+p#journal {
+    color: whitesmoke;
+    text-align: center;
+    font-weight: 800;
+    text-decoration: dotted underline;
+    font-size: xx-large;
+}
+
