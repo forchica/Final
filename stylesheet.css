@@ -27,7 +27,10 @@ div.menu {
 }
 
 p#introtogallery {
+    margin-top: 2em;
     text-align: center;
+    color: rgb(63, 99, 0);
+    font-weight: 800;
 
 }
 
@@ -36,6 +39,32 @@ img#may5lilies {
     
 }
 
+p#liliescap {
+    margin-top: 1.5em;
+    text-align: center;
+    color: rgb(63, 99, 0);
+    font-weight: 800;
+}
+ p#lilies {
+     text-align: center;
+     font-size: xx-large;
+     color: rgb(63, 99, 0);
+     font-weight: 800;
+ }
+
 img#may2cuc {
     width: 400px;
 }
+
+p#break {
+    font-size: 3em;
+    text-align: center;
+    color: white;
+}
+p#cucumber {
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(63, 99, 0);
+    font-weight: 800;
+}
+
