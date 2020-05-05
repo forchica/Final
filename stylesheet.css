@@ -181,7 +181,7 @@ img#stick {
 }
 div.journalheadings {
     color: whitesmoke;
-    font-size: large;
+    font-size: x-large;
     text-indent: 30px;
 }
 
@@ -195,7 +195,8 @@ p#journal {
 
 div.april29 {
     width: 300px;
-    ;
+   margin-top: 3em;
+   margin-bottom: 3em;
 }
 
 img#april29lil {
@@ -205,6 +206,9 @@ img#april29lil {
   -webkit-transform: rotate(90deg);
   -o-transform: rotate(90deg);
   width: 100%;
+  border: solid whitesmoke;
+  padding: .5em;
+  
 }
 
 img#april29sun {
@@ -214,47 +218,71 @@ img#april29sun {
   -webkit-transform: rotate(90deg);
   -o-transform: rotate(90deg);
   width: 100%;
-}
-div.may1 {
-    width: 300px;
-    ;
+  border: solid whitesmoke;
+  padding: .5em;
 }
 
+table#april29table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
 div.may1 {
-    width: 150px;
-    border: 2px solid whitesmoke;
+    width: 200px;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+img#may1lil {
+    width: 100%;
+    border: solid whitesmoke;
+    padding: .5em;
+}
+
+img#may1cuc {
+    width: 100%;
+    border: solid whitesmoke;
+    padding: .5em;
+}
+
+img#may1sun {
+    width: 100%;
+    border: solid whitesmoke;
+    padding: .5em;
+}
+
+table#may1table {
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    border-spacing: 2em;
+}
+
+img#may3lilies {  
+    transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -webkit-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  width: 100%;
+}
+
+div.may3 {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    border: solid whitesmoke;
     padding: .5em;
     align-content: center;
     text-align: center;
 }
 
-img#may1lil {
-    width: 100%;
-}
-
-img#may1cuc {
-    width: 100%;
-}
-
-img#may1sun {
-    width: 100%;
-}
-
-img#may3lilies {
-    
-    transform: rotate(90deg);
-  -ms-transform: rotate(90deg);
-  -moz-transform: rotate(90deg);
-  -webkit-transform: rotate(90deg);
-  -o-transform: rotate(90deg);
-  width: 100%;
-}
-
-div.may3 {
-    width: 200px;
-    
-}
-
 div.journalentry {
     color: whitesmoke;
 }
+
+
