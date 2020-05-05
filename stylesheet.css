@@ -239,3 +239,22 @@ img#may1cuc {
 img#may1sun {
     width: 100%;
 }
+
+img#may3lilies {
+    
+    transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  width: 100%;
+}
+
+div.may3 {
+    width: 200px;
+    
+}
+
+div.journalentry {
+    color: whitesmoke;
+}
