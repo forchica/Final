@@ -47,7 +47,9 @@ img#may5lilies {
     background-color: rgba(216, 81, 110, 0.815);
     
 }
-
+div.imagecenter {
+    text-align: center;
+}
 p#liliescap {
     margin-top: 1.5em;
     text-align: center;
@@ -133,7 +135,7 @@ span.suppose {
     text-indent: 30px;
 }
 
-p#planting {
+div.yourgardensections {
     color: whitesmoke;
     font-size: 2em;
     text-decoration: whitesmoke underline dotted;
@@ -153,11 +155,20 @@ p#seedpackettext {
     text-align: center;
 }
 img#seedpacket {
-    width: 400px;
+    width: 350px;
     border: 2px solid whitesmoke;
     padding: .5em;   
 }
 p {
     color: whitesmoke;
     text-indent: 30px;
+}
+
+div.ferts {
+    width: 250px;
+    border: 2px solid whitesmoke;
+    padding: .5em;
+    float: right;
+}
+
 }
