@@ -193,3 +193,24 @@ p#journal {
     font-size: xx-large;
 }
 
+div.april29 {
+    width: 300px;
+}
+
+img#april29lil {
+    transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  width: 100%;
+}
+
+img#april29sun {
+    transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  width: 100%;
+}
