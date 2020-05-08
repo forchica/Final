@@ -129,6 +129,7 @@ p#consider {
 ul {
     color: whitesmoke;
     font-size: large;
+    list-style-type: circle;
     
 }
 span.suppose {
