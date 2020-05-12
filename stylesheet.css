@@ -206,7 +206,9 @@ div.journalintro {
     text-indent: 30px;
 }
 div.april29 {
-    width: 300px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
    margin-top: 3em;
    margin-bottom: 3em;
 }
@@ -242,7 +244,7 @@ table#april29table {
 
 
 div.may1 {
-    width: 200px;
+    width: 75%;
     margin-top: 1em;
     margin-bottom: 1em;
 }
@@ -266,8 +268,7 @@ img#may1sun {
 }
 
 table#may1table {
-    text-align: center;
-    align-content: center;
+   
     margin-right: auto;
     margin-left: auto;
     border-spacing: 2em;
@@ -307,7 +308,7 @@ table#may5table {
 }
 
 div.may5 {
-    width: 200px;
+    width: 75%;
     border: whitesmoke solid;
     padding: .5em;
     border-spacing: 1em;
@@ -331,7 +332,6 @@ img#may5cuc {
 
 table#may11table {
     text-align: center;
-    justify-content: center;
     margin-right: auto;
     margin-left: auto;
     margin-top: 2em;
@@ -339,17 +339,15 @@ table#may11table {
 }
 
 div.may11 {
-    width: 175px;
+    width: 75%;
     border: whitesmoke solid;
     padding: .5em;
     border-spacing: 1em;
-    text-align: center;
-    align-content: center;
-    justify-content: center;
 }
 
+
 img#may11cuc {
-    width: 100%;
+    width: 75%;
 }
 
 img#may11sunflower {
@@ -564,26 +562,10 @@ div.maps {
         font-weight: 600;
     }
 
-    table#may5table {
-        text-align: center;
-        margin-right: 1em;
-        margin-left: 1em;
-        margin-top: 2em;
-        margin-bottom: 2em;
-    }
-
-    div.may5 {
-        width: 100px;
-    }
-
-
-
-
-
-
+    
 
     }
-
+    
 
 
 
