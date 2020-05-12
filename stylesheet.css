@@ -272,7 +272,7 @@ img#may3lilies {
 }
 
 div.may3 {
-    width: 400px;
+    width: 200px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 2em;
@@ -315,5 +315,133 @@ img#may5cuctransfer {
 }
 
 img#may5cuc {
-    width: 100;
+    width: 100%;
 }
+
+div.yglinks {
+    font-size: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: oldlace;
+}
+
+p#links {
+    font-size: 1.3em;
+    text-align: center;
+    margin-top: 3em;
+}
+
+p#titleofmites {
+    font-size: 2.5em;
+    text-decoration: dotted underline;
+    color: whitesmoke;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+a {
+    color: papayawhip;
+}
+
+a link :hover {
+    color: midnightblue;
+}
+
+img#suc1 {
+    width: 400px;
+    border: 2px solid whitesmoke;
+    padding: .5em;
+    background-color: green;
+}
+
+img#suc2 {
+    transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  margin-top: 5em;
+  margin-bottom: 5em;
+  width: 550px;
+  border: 2px solid whitesmoke;
+  padding: .5em;
+  background-color: rgb(7, 164, 127);
+}
+
+p#succap {
+    margin-top: 1.5em;
+    text-align: center;
+    color: whitesmoke;
+    font-weight: 800;
+    font-size: large;
+}
+
+p#titleofgreensboro {
+    font-size: 2.5em;
+    text-decoration: dotted underline;
+    color: whitesmoke;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p#introtoplaces {
+    color: whitesmoke;
+    font-size: x-large;
+    text-align: center;
+}
+
+div.places {
+    font-size: x-large;
+    color: whitesmoke;
+    text-align: center;
+    font-weight: bolder;
+    padding: 1em;
+}
+
+div#local {
+    outline-color: yellow;
+    outline-width: thick;
+    color: whitesmoke;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+padding: 1em;
+text-decoration: underline wavy;
+}
+
+div.maps {
+    align-content: center;
+    text-align: center;
+    padding: 1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:750px) { /*these rules take effect when the viewport is small*/
+    header {
+        display: flex;
+        height: 5em;
+        justify-content: space-evenly;
+        align-items: center;
+        margin-left: 2em;
+        margin-right: 2em;
+        border: white 2px solid;
+    }
+
+    @media screen and (orientation: portrait) {
+        body {
+            background-color: rgba(35, 119, 52, 0.749);
+        }
