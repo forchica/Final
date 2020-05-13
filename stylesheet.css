@@ -1,5 +1,5 @@
 body {
-    color: black;
+
     background-color:rgba(89, 138, 43, 0.747);
     font-family: fantasy;
     font-size: 1.1em;
@@ -33,7 +33,7 @@ div.menu {
 p#titleofgallery {
     font-size: 2.5em;
     text-decoration: dotted underline;
-    color: whitesmoke;
+    color: darkolivegreen;
     text-align: center;
 }
 p#introtogallery {
@@ -41,6 +41,7 @@ p#introtogallery {
     text-align: center;
     color: whitesmoke;
     font-weight: 800;
+    font-size: larger;
 
 }
 
@@ -68,7 +69,7 @@ p#lilies {
      text-decoration: dotted underline darkolivegreen;
      font-size: xx-large;
      border-bottom: 2px whitesmoke;
-     color: whitesmoke;
+     color: darkolivegreen;
      font-weight: 800;
  }
 
@@ -88,7 +89,7 @@ p#break {
 p#cucumber {
     text-align: center;
     font-size: xx-large;
-    color: whitesmoke;
+    color: darkolivegreen;
     font-weight: 800;
     text-decoration: darkolivegreen dotted underline;
 }
@@ -101,7 +102,7 @@ p#cuccap {
 }
 
 div.welcome {
-    color: whitesmoke;
+    color: darkolivegreen;
     text-align: center;
 }
 
@@ -118,7 +119,7 @@ div.p1 {
 p#yourgarden {
     font-size: 2.5em;
     text-decoration: dotted underline;
-    color: whitesmoke;
+    color: darkolivegreen;
     text-align: center;
 }
 p#yourgardenintro {
@@ -143,7 +144,7 @@ span.suppose {
 }
 
 div.yourgardensections {
-    color: whitesmoke;
+    color: darkolivegreen;
     font-size: 2em;
     text-decoration: whitesmoke underline dotted;
 }
@@ -187,13 +188,13 @@ img#stick {
     width: 100%;
 }
 div.journalheadings {
-    color: whitesmoke;
+    color: darkolivegreen;
     font-size: x-large;
     text-indent: 30px;
 }
 
 p#journal {
-    color: whitesmoke;
+    color: darkolivegreen;
     text-align: center;
     font-weight: 800;
     text-decoration: dotted underline;
@@ -331,11 +332,9 @@ img#may5cuc {
 }
 
 table#may11table {
-    text-align: center;
     margin-right: auto;
     margin-left: auto;
-    margin-top: 2em;
-    margin-bottom: 2em;
+    border-spacing: 2em;
 }
 
 div.may11 {
@@ -354,8 +353,8 @@ img#may11sunflower {
     width: 100%;
 }
 
-img#mixedflowers {
-    width: 175px;
+img#may11mixedflowers {
+    width: 100%;
 }
 
 
@@ -376,7 +375,7 @@ p#links {
 p#titleofmites {
     font-size: 2.5em;
     text-decoration: dotted underline;
-    color: whitesmoke;
+    color: darkolivegreen;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -438,7 +437,7 @@ p#succap {
 p#titleofgreensboro {
     font-size: 2.5em;
     text-decoration: dotted underline;
-    color: whitesmoke;
+    color: darkolivegreen;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -459,9 +458,9 @@ div.places {
 }
 
 div#local {
-    outline-color: yellow;
+   
     outline-width: thick;
-    color: whitesmoke;
+    color: darkolivegreen;
     font-size: xx-large;
     font-weight: bolder;
     text-align: center;
@@ -509,15 +508,20 @@ div.maps {
     div.journalintro {
         font-size: large;
     }
+
+
     
     body {
         font-size: medium;
     }
 
     p#titleofgallery {
-        font-size: 2em;
+        font-size: 1.5em;
     }
 
+    p#introtogallery {
+        font-size: medium;
+    }
     img#may5lilies {
         width: 200px;
     }
@@ -558,7 +562,7 @@ div.maps {
     }
 
     a {
-        color: rgb(64, 85, 64);
+        color: papayawhip;
         font-weight: 600;
     }
 
@@ -575,6 +579,10 @@ div.maps {
             background-color: rgba(35, 119, 52, 0.749);
             border-color: yellowgreen;
             border-style: dashed;
+        }
+
+        header {
+            background-color: rgba(3, 118, 38, 0.774);
         }
     }
 
